@@ -69,9 +69,6 @@ TEMPLATES = [
 ]
 
 WSGI_APPLICATION = 'manomay.wsgi.application'
-
-AUTH_USER_MODEL = "image.User"
-
 # Database
 # https://docs.djangoproject.com/en/2.2/ref/settings/#databases
 
